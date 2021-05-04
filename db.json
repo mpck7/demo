@@ -1,14 +1,5 @@
 {
 	"zprava": "ok",
-	"polozky": [{
-			"cislo": 11,
-			"name": "jedna",
-			"poznamka": "poznamka 1 je jedna"
-		},
-		{
-			"cislo": 22,
-			"name": "dva",
-			"poznamka": "poznamka 2 je dva"
-		}
-	]
+	"polozky": "neco jako polo",
+	"cislo":22
 }
