@@ -1,5 +1,5 @@
 {
-	"zprava": "ok",
-	"polozky": "neco jako polo",
-	"cislo":22
+	"zpravy":{ "zprava":"ok"},
+	"polozky":{ "polozka":"neco jako polo"},
+	"cisla":{"cislo":22}
 }
